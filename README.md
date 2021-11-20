@@ -1,6 +1,6 @@
 # ImageToRGB16ELI
 ImageToRGB16ELI is a console program. The program accepts images in jpg format as input, formats and saves them in ELI format.
-Microsoft .NET Framework 3.5 is used to perform the functionality. 
+Microsoft .NET Framework 3.5 is used to perform the functionality. Microsoft Visual Studio 2010 was used to develop the program.  
 The program functions in the line of Microsoft Windows XP / Wista / Windows7 operating systems.
 
 Description of the ELI file format:
